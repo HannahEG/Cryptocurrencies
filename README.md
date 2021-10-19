@@ -6,8 +6,13 @@ The following were utilized:
 ### Kmeans
 ### Clustering
 ### Elbow Curve
+![](ElbowCurveCrypto.png)
 ### Scatter plots
+![](HVscatterplot.png)
 ### 3D plots
+
+![](3Dcryptocurrencyplot.png)
+
 ### Plot tables
 
 
