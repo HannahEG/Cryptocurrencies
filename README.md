@@ -1,6 +1,7 @@
 # Cryptocurrencies
-Utilized Unsupervised Learning: Cryptocurrency Companies were evaluated to determine potential investment opportunities.
-The following were utilized:
+Unsupervised Learning to evaluate Cryptocurrency Companies and determine potential investment opportunities.
+
+*The following were utilized and generated:*
 
 ### Primary Component Analysis
 ![](PCAdataframe.png)
