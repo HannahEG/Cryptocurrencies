@@ -3,9 +3,10 @@ Utilized Unsupervised Learning: Cryptocurrency Companies were evaluated to deter
 The following were utilized:
 
 ### Primary Component Analysis
-### Kmeans
-### Clustering
-### Elbow Curve
+![](PCAdataframe.png)
+
+### Clustering with K-Means to generate:
+Elbow Curve
 ![](ElbowCurveCrypto.png)
 ### Scatter plot 
 ![](HVscatterplot.png)
